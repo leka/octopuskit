@@ -4,7 +4,7 @@ A 2D game engine based on ECS and written in 100% Swift for iOS, macOS, tvOS and
 
 > [!CAUTION]
 > 😔 This project is no longer updated by the sole maintainer.   
-> 🌟 I have moved to Godot. **Check out [Comedot](comedot)** ← my components-based framework for 2D games in Godot!
+> 🌟 I have moved to Godot. **Check out [Comedot][comedot]** ← my components-based framework for 2D games in Godot!
 
 > [!IMPORTANT]
 > ❕ **OctopusKit requires [OctopusCore][octopuscore].** _Non-game functionality was split into a separate repository for use in general apps. For the last standalone version, see  [4.0.0-beta-5](https://github.com/InvadingOctopus/octopuskit/releases/tag/4.0.0-beta.5)_
