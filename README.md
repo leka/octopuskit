@@ -2,7 +2,12 @@
 
 A 2D game engine based on ECS and written in 100% Swift for iOS, macOS and tvOS.
 
-⚠️ **NOTE: OctopusKit now requires [OctopusCore](#octopuscore).** _Non-game functionality was split into a separate repository for use in general apps. For the last standalone version, see  [4.0.0-beta-5](https://github.com/InvadingOctopus/octopuskit/releases/tag/4.0.0-beta.5)_
+> [!CAUTION]
+> This project is no longer updated by the sole maintainer. 😔  
+> I have moved to Godot. **Check out [Comedot](comedot)** ← my component-based framework for 2D games in Godot. 🥰
+
+> [!IMPORTANT]
+> ❕ **OctopusKit requires [OctopusCore][octopuscore].** _Non-game functionality was split into a separate repository for use in general apps. For the last standalone version, see  [4.0.0-beta-5](https://github.com/InvadingOctopus/octopuskit/releases/tag/4.0.0-beta.5)_
  
 If you've tried making a game in Swift while sticking to the official APIs, this may be for you! OctopusKit wraps and extends Apple's frameworks:
 
@@ -298,12 +303,13 @@ Set the custom class of the scene as `OKScene` or a subclass of it. Load the sce
 [OctopusKit][repository] © 2023 [Invading Octopus][website] • [Apache License 2.0][license]
 
 [repository]:  https://github.com/invadingoctopus/octopuskit
-[octopuscore]: https://github.com/invadingoctopus/octopuscore 
+[octopuscore]: https://github.com/invadingoctopus/octopuscore
 [website]: https://invadingoctopus.io
 [license]: https://www.apache.org/licenses/LICENSE-2.0.html
 [twitter]: https://twitter.com/invadingoctopus
 [discord]: https://discord.gg/y3har7D
 [patreon]: https://www.patreon.com/invadingoctopus
+[comedot]: https://github.com/invadingoctopus/comedot
 
 [quickstart]: https://github.com/InvadingOctopus/octopuskit/blob/master/QuickStart/README%20QuickStart.md
 [guide]: https://invadingoctopus.io/octopuskit/documentation/guide.html
