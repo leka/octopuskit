@@ -32,7 +32,7 @@ let package = Package(
             name: "OctopusKit",
             dependencies: ["OctopusCore"],
             exclude: [
-                "Apple API Extensions/SwiftUI/OctopusUI.md"],
+                "Apple API Extensions/SwiftUI/OctopusUI.md"]
 //          , swiftSettings: [                // MARK: - Conditional Compilation Flags
 //                .define("LOGECSVERBOSE"),   // Log detailed ECS core events. ⚠️ May decrease performance.
 //                .define("LOGECSDEBUG"),     // Log ECS debugging info. ⚠️ Will decrease performance.
