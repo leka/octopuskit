@@ -22,7 +22,7 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
-        .package(url: "https://github.com/InvadingOctopus/octopuscore", exact: "3fb99b2bcb79765fb613ecd05942593cbccef7ca")
+        .package(url: "https://github.com/InvadingOctopus/octopuscore", revision: "3fb99b2bcb79765fb613ecd05942593cbccef7ca")
         
     ],
     targets: [
